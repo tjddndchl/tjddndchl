@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=Slice&color=38d9a9&height=180&section=header&text=SeongWoong%20Kim&fontSize=80&fontColor=343a40&animation=twinkling&rotate=-5)
+![header](https://capsule-render.vercel.app/api?type=Slice&color=38d9a9&height=180&section=header&text=SeongWoong%20Choi&fontSize=80&fontColor=343a40&animation=twinkling&rotate=-5)
 
 
 <h3 align="center"> Hi there 👋</h3>
